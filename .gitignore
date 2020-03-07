@@ -20,3 +20,13 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+.gitignore
